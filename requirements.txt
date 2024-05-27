@@ -1,0 +1,11 @@
+pystray
+openai
+whisper-mic
+keyboard
+requests
+Pillow
+pydub
+simpleaudio
+tkinter 
+pyttsx3
+speechrecognition
