@@ -90,4 +90,9 @@ This tool is designed to be helpful and accessible for visually impaired users. 
 
 ---
 
+
 Message me on x.com/didntdrinkwater or https://www.younes.ca
+
+<a href="https://elevenlabs.io/text-to-speech">
+<img src="https://storage.googleapis.com/eleven-public-cdn/images/elevenlabs-grants-logo.png" alt="Text to Speech" style="width:250px">
+</a>
